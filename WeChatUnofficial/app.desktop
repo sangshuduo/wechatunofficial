@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=WeChat Unofficial
+Comment=WeChat is a most popual IM app on mobile phone. WeChat Official can used to chat with friend after user authorize by QR code.
+Type=Application
+Icon=wechatunofficial.png
+Exec=webbrowser-app --webapp http://wx.qq.com
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-StageHint=SideStage

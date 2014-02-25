@@ -1,0 +1,14 @@
+{
+    "description": "WeChat Unofficial client",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "example": {
+            "apparmor": "app.json",
+            "desktop": "app.desktop"
+        }
+    },
+    "maintainer": "Shuduo Sang",
+    "name": "com.ubuntu.developer.sangshuduo.wechatunofficial",
+    "title": "WeChat Unofficial",
+    "version": "0.1"
+}
