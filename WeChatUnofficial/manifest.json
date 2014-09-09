@@ -1,6 +1,6 @@
 {
     "description": "WeChat Unofficial client",
-    "framework": "ubuntu-sdk-13.10",
+    "framework": "ubuntu-sdk-14.10-html-dev2",
     "hooks": {
         "example": {
             "apparmor": "app.json",
