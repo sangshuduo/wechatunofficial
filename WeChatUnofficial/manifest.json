@@ -1,15 +1,15 @@
 {
     "architecture": "all",
     "description": "WeChat Unofficial client",
-    "framework": "ubuntu-sdk-14.10-html-dev2",
+    "framework": "ubuntu-sdk-14.10-dev2",
     "hooks": {
         "example": {
-            "apparmor": "app.json",
+            "apparmor": "wechatunofficial.apparmor",
             "desktop": "app.desktop"
         }
     },
-    "maintainer": "Shuduo Sang",
+    "maintainer": "Shuduo Sang <sangshuduo@gmail.com>",
     "name": "com.ubuntu.developer.sangshuduo.wechatunofficial",
     "title": "WeChat Unofficial",
-    "version": "0.1.4"
+    "version": "0.2.0"
 }
